@@ -10,7 +10,6 @@ public class Turista extends Cliente {
     public String getVisa() {
         return visa;
     }
-
     public void setVisa(String visa) {
         this.visa = visa;
     }

@@ -13,7 +13,6 @@ public abstract class Cliente {
     public String getNombre() {
         return nombre;
     }
-
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
@@ -21,7 +20,6 @@ public abstract class Cliente {
     public String getCorreo() {
         return correo;
     }
-
     public void setCorreo(String correo) {
         this.correo = correo;
     }
@@ -29,7 +27,6 @@ public abstract class Cliente {
     public String getDocumentoIdentidad() {
         return documentoIdentidad;
     }
-
     public void setDocumentoIdentidad(String documentoIdentidad) {
         this.documentoIdentidad = documentoIdentidad;
     }

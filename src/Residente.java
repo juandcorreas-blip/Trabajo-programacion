@@ -10,7 +10,6 @@ public class Residente extends Cliente {
     public String getDireccionResidencia() {
         return direccionResidencia;
     }
-
     public void setDireccionResidencia(String direccionResidencia) {
         this.direccionResidencia = direccionResidencia;
     }
